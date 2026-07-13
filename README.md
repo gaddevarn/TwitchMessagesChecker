@@ -33,6 +33,6 @@ python bot.py --token "YOUR_TELEGRAM_BOT_TOKEN"
 4. Перейдите в Telegram, нажмите `/start` и авторизуйтесь командой:
 `/auth 123456`
 
-## Контакты разработчика
+## Помощь
 - GitHub: [gaddevarn](https://github.com/gaddevarn)
 - Telegram: [@michaelvarn](https://t.me/michaelvarn)
